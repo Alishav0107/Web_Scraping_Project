@@ -1,0 +1,10 @@
+{
+    "dbConStr": "D:/VScode/Python_Projects/State-Forecast-Mail-Sharing/site.db",
+    "emailHost": "smtp.gmail.com",
+    "sendersMail": "vermaalisha1j@gmail.com",
+    "sendersUsername": "vermaalisha1j@gmail.com",
+    "sendersPass": "bestdidi",
+    "receiverAdressBook": ["vermaalisha1j@gmail.com" ],
+    "port": 587,
+    "excelPath": "E:/vs code/Python-Projects/Scrape_IMDB/files/"
+  }
